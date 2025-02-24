@@ -38,10 +38,7 @@ This repository contains a collection of practical labs completed as part of the
 
 ## Requirements
 - **Software:**
-GNU Radio (version 3.8 or higher)
-Python 3.x
-SciPy & NumPy
+GNU Radio, Python, SciPy & NumPy
 
 - **Hardware (for practical labs):**
-LimeSDR / USRP SDR
-Linux-based system (Ubuntu recommended)
+LimeSDR / USRP SDR, Linux-based system (Ubuntu)
