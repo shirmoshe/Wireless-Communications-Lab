@@ -35,3 +35,13 @@ This repository contains a collection of practical labs completed as part of the
    - Evaluated system performance under different channel conditions (i.i.d Gaussian, chaotic, and correlative channels).
 
 ---
+
+## Requirements
+- **Software:**
+GNU Radio (version 3.8 or higher)
+Python 3.x
+SciPy & NumPy
+
+- **Hardware (for practical labs):**
+LimeSDR / USRP SDR
+Linux-based system (Ubuntu recommended)
